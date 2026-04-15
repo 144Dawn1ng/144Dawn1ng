@@ -18,7 +18,7 @@
 </table>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=144Dawn1ng&bg_color=DFDCE7&color=74799B&line=74799B&point=E8EFFA&area=true&hide_border=true" width="97.5%">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=144Dawn1ng&bg_color=DFDCE7&color=74799B&line=74799B&point=E8EFFA&area=true&hide_border=true" width="98.5%">
 </p>
 
 ## 🛠 Tech Stack
