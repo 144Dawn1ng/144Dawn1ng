@@ -34,7 +34,7 @@
 
 ---
 
-<div align="center">
+<div align="right">
   <a href="mailto:144d.reaming@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/>
   </a>
