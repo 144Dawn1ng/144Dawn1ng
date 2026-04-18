@@ -36,9 +36,9 @@
 
 <div align="right">
   <a href="mailto:144d.reaming@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-144d.reaming@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/>
   </a>
   <a href="https://discord.gg/zZgXE9Dv">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=Discord&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Discord-d.awn1ng-5865F2?style=flat-square&logo=Discord&logoColor=white"/>
   </a>
 </div>
