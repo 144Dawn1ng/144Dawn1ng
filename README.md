@@ -23,13 +23,13 @@
 
 ## 🛠 Tech Stack
 
-#### 💻 Software & GUI
+### 💻 Software & GUI
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Nextcord-5865F2?style=flat-square&logo=Discord&logoColor=white"/> <img src="https://img.shields.io/badge/Tkinter-000000?style=flat-square"/> <img src="https://img.shields.io/badge/PyQt5-41CD52?style=flat-square&logo=Qt&logoColor=white"/>
 
-#### 🤖 Hardware & Game
+### 🤖 Hardware & Game
 <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/> <img src="https://img.shields.io/badge/Gpiozero-C51A4A?style=flat-square&logo=RaspberryPi&logoColor=white"/> <img src="https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=GodotEngine&logoColor=white"/>
 
-#### 📊 Data & Tools
+### 📊 Data & Tools
 <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white"/> <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=JSON&logoColor=white"/> <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 
 ---
