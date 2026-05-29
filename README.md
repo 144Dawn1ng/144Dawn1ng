@@ -4,7 +4,7 @@
   
 </div>
 
-<div align="center"><a><b>Powered by Coffee and Dawn.</b></a></div><br>
+<div align="center"><a><b>Turning Caffeine into Dreams.</b></a></div><br>
 
 <table border="0" align="center" cellpadding="0" cellspacing="0">
   <tr>
