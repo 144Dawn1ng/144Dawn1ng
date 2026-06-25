@@ -44,7 +44,7 @@
   <a href="mailto:144d.reaming@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-144d.reaming@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/>
   </a>
-  <a href="https://discord.gg/zZgXE9Dv">
+  <a href="https://discord.gg/xYwSE9ZB">
     <img src="https://img.shields.io/badge/Discord-d.ream1ng-5865F2?style=flat-square&logo=Discord&logoColor=white"/>
   </a>
 </div>
